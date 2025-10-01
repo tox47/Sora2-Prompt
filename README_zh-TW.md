@@ -222,6 +222,7 @@ Sora 2 是 OpenAI 的先进文本生成视频 AI 模型，可以根据文本指�
 ## 🔗 资源
 
 - **官方 Sora 网站**：[openai.com/sora](https://openai.com/sora)
+- **Sora 提示词画廊**：[soraprompt.net](https://soraprompt.net/)
 - **提示词画廊**：[sorainvitecode.org/prompt](https://sorainvitecode.org/prompt)
 - **社区集合**：各种 GitHub 仓库和社区网站
 

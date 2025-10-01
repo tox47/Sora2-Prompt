@@ -222,6 +222,7 @@ Prompts #70, 79, 84, 87, 90, 94
 ## 🔗 Recursos
 
 - **Sitio Web Oficial de Sora**: [openai.com/sora](https://openai.com/sora)
+- **Galería de Prompts de Sora**: [soraprompt.net](https://soraprompt.net/)
 - **Galería de Prompts**: [sorainvitecode.org/prompt](https://sorainvitecode.org/prompt)
 - **Colecciones Comunitarias**: Varios repositorios de GitHub y sitios comunitarios
 
